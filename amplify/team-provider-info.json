@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-guido-dev-103044-authRole",
+      "UnauthRoleArn": "arn:aws:iam::633437091435:role/amplify-guido-dev-103044-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::633437091435:role/amplify-guido-dev-103044-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-guido-dev-103044-deployment",
+      "UnauthRoleName": "amplify-guido-dev-103044-unauthRole",
+      "StackName": "amplify-guido-dev-103044",
+      "StackId": "arn:aws:cloudformation:ap-south-1:633437091435:stack/amplify-guido-dev-103044/0fd30440-1ea4-11ec-be3e-0229a988a0a2",
+      "AmplifyAppId": "d2spcjepktaax1"
+    },
+    "categories": {
+      "auth": {
+        "guidoe99b1496": {}
+      }
+    }
+  }
+}
